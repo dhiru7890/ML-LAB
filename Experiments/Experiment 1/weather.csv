@@ -1,0 +1,5 @@
+sky,temp,humidity,wind,isPlay
+sunny,warm,normal,strong,yes
+sunny,warm,high,strong,yes
+rainy,cold,high,strong,no
+sunny,warm,high,weak,yes
